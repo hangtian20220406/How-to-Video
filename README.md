@@ -1,6 +1,6 @@
 # 程序员视频号指南
 
-[飞书文档同步更新]：(https://l5fobi2tsi.feishu.cn/docs/doccnqcsMURms5iy0XZk5C8X8sb)
+[飞书文档同步更新](https://l5fobi2tsi.feishu.cn/docs/doccnqcsMURms5iy0XZk5C8X8sb)
 
 ## 一、工具
 ### 1、热榜
