@@ -1,7 +1,9 @@
 程序员视频号指南
 
 飞书（日更）： https://l5fobi2tsi.feishu.cn/docs/doccnqcsMURms5iy0XZk5C8X8sb
+
 GitHub（不定期更新）：https://github.com/hangtian20220406/How-to-Video
+
 腾讯文档（飞书违规时同步）： https://docs.qq.com/doc/DSXVWWXBoYVZ5YWVH
 
 一、工具
