@@ -8,31 +8,31 @@ GitHub（不定期更新）：https://github.com/hangtian20220406/How-to-Video
 
 一、工具
 1. 热榜
-- 新视：视频号第三方数据分析平台
+- [新视：视频号第三方数据分析平台](https://xs.newrank.cn/data/home/index)
 - 抖音排行榜
-- 视灯：视频号第三方数据分析平台 
+- [视灯：视频号第三方数据分析平台](https://www.shidengdata.com/)
 - 知乎热榜
-- 今日热榜 ：汇集抖音、知乎、B站、公众号、微博等社区的热榜
-- 鱼塘热榜-聚合每日热门、搞笑、有趣资讯
+- [今日热榜 ：汇集抖音、知乎、B站、公众号、微博等社区的热榜](https://tophub.today/)
+- [鱼塘热榜-聚合每日热门、搞笑、有趣资讯](https://mo.fish/)
 2. 文案
 - 获取视频文案，球友二师兄做的：#小程序：去水印视频文案提取
-- 文案狗：谐音文案 
-- 找台词：根据想要台词找影视片段
-- 顶尖文案
-- 书籍经典金句搜索器
+- [文案狗：谐音文案](http://www.wenangou.com/)
+- [找台词：根据想要台词找影视片段](https://zhaotaici.cn/index.html)
+- [顶尖文案](https://www.topys.cn/)
+- [书籍经典金句搜索器](http://biji.wudabai.com/)
 3. 视频下载
 - B站视频下载
   - 哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑
-  - 贝贝BiliBili - B站视频下载
+  - [贝贝BiliBili - B站视频下载](https://xbeibeix.com/api/bilibili/)
 - 抖音视频下载：
   - #小程序：轻抖 
   - #小程序：西果工具
-  - 抖音无水印下载
-  - 抖音TK无水印下载
+  - [抖音无水印下载](https://www.whcsrl.com/)
+  - [抖音TK无水印下载](https://dlpanda.com/zh-CN)
 - 视频号视频下载
   - 5188机器人
-  - 安卓端：下载王 
-  - 知乎上的一些分享（未测试）
+  - [安卓端：下载王](http://wx.xibuzhineng.com/#/pages/index/index)
+  - [知乎上的一些分享（未测试](https://zhuanlan.zhihu.com/p/463635180)
 - 西瓜视频下载
   - https://bilibili.iiilab.com/
   - http://www.downfi.com/video/
@@ -45,77 +45,79 @@ GitHub（不定期更新）：https://github.com/hangtian20220406/How-to-Video
 - FLVCD: 支持90+个网站的解析下载
 - 手机录屏：简单且粗暴...
 4. 数据分析
-- 视频号助手
-- 抖查查数据-短视频&直播电商数据分析服务平台
-- 新视网址：https://xs.newrank.cn/data/home/index
-- 视灯网址：https://www.shidengdata.com/
-- 友望数据：http://www.youwant.cn/?chl=badujp
-- 百准数据：https://data.baizhun.cn/web/ranks
+- [视频号助手](https://channels.weixin.qq.com/platform)
+- [抖查查数据-短视频&直播电商数据分析服务平台](https://www.douchacha.com/)
+- [新视网址](https://xs.newrank.cn/data/home/index)
+- [视灯网址](https://www.shidengdata.com/)
+- [友望数据](http://www.youwant.cn/?chl=badujp)
+- [百准数据](https://data.baizhun.cn/web/ranks)
 5. 音频处理
 - 人音与音乐分离
-  1. vocalremover
-  2. songdonkey
-  3. lalal.ai（付费）
+  1. [vocalremover](https://vocalremover.org/)
+  2. [songdonkey](https://songdonkey.ai/)
+  3. [lalal.ai（付费)](https://www.lalal.ai/)
   4. iZotope RX 7
   5. https://www.lalal.ai/zh-hant/
 - 视频声音提取
   - Audio Extractor - 从在线视频中提取音频
-- Azure Speech Download – 免费的文字转语音，基于微软语音合成：下滑至页中
-  - [油猴脚本] https://t.co/giAg8sU5A6 https://t.co/ieQTtPPIFg
+- [Azure Speech Download](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#security) – 免费的文字转语音，基于微软语音合成：下滑至页中
+  - [油猴脚本](https://t.co/giAg8sU5A6 https://t.co/ieQTtPPIFg)
 
 
-- 免费文字转语音：Clipchamp - free video editor & video maker
-- 魔音工坊配音（付费）
+- 免费文字转语音：[Clipchamp - free video editor & video maker](https://app.clipchamp.com/)
+- [魔音工坊配音（付费)](https://www.moyin.com/)
 - 云猫转码 - 简单智能、功能齐备的云端视频工具
 6. 数据指数
-- 百度指数
+- [百度指数](https://index.baidu.com/v2/index.html#/)
 - #小程序：微信指数
 7. 词云生成器
-- 易词云
-- 大数据词云
+- [易词云](https://www.yciyun.com/)
+- [大数据词云](https://www.kt1.com/)
 
 8. 剪辑软件
-- 剪映
-- 格式工厂
+- [剪映](https://lv.ulikecam.com/)
+- [格式工厂](http://www.pcgeshi.com/download.html)
+- [视频批量去重软件（前99条免费)](http://www.cr-soft.net/crvideomate.html)
 
 9. 字幕处理
 - 突字幕 - 更方便的为你的视频做字幕：上传视频，几分钟内得到字幕
-- 剪映 Json格式 转 srt格式 字幕：https://guihet.com/jysrt52pj.html
-- 在线替换 srt 文件中的文本：https://products.aspose.app/pdf/redaction/srt
-- 网易见外：AI 智能语音识别自动生成字幕
+- [剪映 Json格式 转 srt格式](https://guihet.com/jysrt52pj.html)
+- [在线替换 srt 文件中的文本](https://products.aspose.app/pdf/redaction/srt)
+- [网易见外：AI 智能语音识别自动生成字幕](https://jianwai.youdao.com/)
 
 10. 直播录屏软件
-- OBS官网，OBS Steam版（版本会自动更新）
+- [OBS官网](https://obsproject.com/)，[OBS Steam版（版本会自动更新）](https://store.steampowered.com/app/1905180/OBS_Studio/)
 
 11. 违禁词检测
-- 句易网（不够完美）
+- [句易网（不够完美）](http://www.ju1.cn/)
+- [零克查词 — 专业的小红书、抖音、B站、小红书敏感词检测工具](http://ci.lingke.pro/)
+- [axure小课堂 - 微信公众号敏感词检测](https://xktzs.com/)
 
 12. 去水印
-- 在线视频去水印 - 免费视频去水印软件，免安装，安全纯净：可指定区域去水印
-- 在线图片加平铺水印|添加多行多排重复倾斜文字水印 - 改图宝
+- [在线视频去水印 - 免费视频去水印软件，免安装，安全纯净：可指定区域去水印](https://www.apowersoft.cn/video-watermark-remover)
+- [在线图片加平铺水印|添加多行多排重复倾斜文字水印 - 改图宝](https://www.gaitubao.com/watermark-repeat)
 
 13. 伪原创
 - 在线文章伪原创工具
 
 14. 视频号头像封面制作
-- 创客贴 
-- 图怪兽
-- LOGO设计神器 - logo在线设计生成器，免费在线生成公司logo设计！
-- canva
+- [创客贴](https://www.chuangkit.com/)
+- [❤Canva](https://www.canva.cn/en/?display-com-option=true)
+- [图怪兽](https://818ps.com/)
+- [LOGO设计神器 - logo在线设计生成器，免费在线生成公司logo设计！](https://www.logosc.cn/)
+- [logo在线设计生成器 - Shopify Hatchful :免费、好用、简约](https://hatchful.shopify.com/zh-CN/)
 
 15. 选题
-- 蝉妈妈：抖音带货视频排行榜_热门电商种草短视频数据 - 蝉妈妈数据
-- 新视：https://xs.newrank.cn/data/home/index
+- [蝉妈妈：抖音带货视频排行榜_热门电商种草短视频数据 - 蝉妈妈数据](https://www.chanmama.com/hotAwemeRank)
+- [新视](https://xs.newrank.cn/data/home/index)
 
 16. 工具导航
-- 自媒体家园 | 专业自媒体导航，专注自媒体人效率、资源、技能提升！
+- [自媒体家园 | 专业自媒体导航，专注自媒体人效率、资源、技能提升！](https://www.zmthome.com/)
+- [云猫转码 - 简单智能、功能齐备的云端视频工具](https://yunmaovideo.com/)
 
-17. logo设计
-- logo在线设计生成器 - Shopify Hatchful :免费、好用、简约
-
-18. 音效
-- 爱给网：https://www.aigei.com/
-- 淘声网：https://www.tosound.com/
+17. 音效
+- [爱给网](https://www.aigei.com/)
+- [淘声网](https://www.tosound.com/)
 
 二、资源素材
 1. 电影资源
@@ -161,7 +163,6 @@ GitHub（不定期更新）：https://github.com/hangtian20220406/How-to-Video
 - 私域增长和SaaS产品学习 平台，课程体系很完整，而且会请相关品牌的负责人来分享，信息密度比较高，可以帮大家开阔视野：查看（同名小程序）腾讯智慧零售学堂
 
 
-
 4. 微信安全方面：
 - 官方违规概览：视频号常见违规内容概览
 - 微信安全相关讯息公众号：微信安全中心、 微信110、微信珊瑚安全
@@ -183,3 +184,16 @@ GitHub（不定期更新）：https://github.com/hangtian20220406/How-to-Video
 - 游戏类
   - CSGO ：待添加
   - LOL 抖音剪辑天花板：忘了他 ID 了待添加
+- 官方教程 ：待添加
+
+六、其它 PDF 分享
+1. 微信视频号百科全书
+
+七、视频号小商店
+1. 视频号小商店在哪？
+  - [视频号小商店网页版后台](https://shop.weixin.qq.com/)
+  - #小程序 ：小商店助手
+
+2. 怎么在视频号开通自己的小商店
+  - [通过微店开通｜作者：骄阳](https://w63nbfedzw.feishu.cn/docs/doccnh1YfJarDIeejsUcdKctSnh)
+  
